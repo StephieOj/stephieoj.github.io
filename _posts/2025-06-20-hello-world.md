@@ -8,7 +8,7 @@ tags: [Hello World]
 
 # My Coding Journey: From Zero to Hero with SheCodes
 
-Hey there, tech enthusiasts! I’m thrilled to share my first-ever blog post as a new coder diving headfirst into the exciting world of programming. I apologise in advance, this is going to be a long one- I wanted to cover everything I've learned so far! 
+Hey there, tech enthusiasts! I’m thrilled to share my first-ever blog post as a new coder diving headfirst into the exciting world of programming. I apologise in advance, this is going to be a long one- I wanted to cover everything I've learned so far! 😬
 
 A few months ago, I was a complete beginner, unsure if coding was even for me. I loved the idea of coding but as a Business Analyst by day, I was worried about the transition. Fast forward to today, and I’m building interactive web pages, coding in Python, and even dabbling in AI—all thanks to the SheCodes Bootcamp! I’ve completed SheCodes Basics, SheCodes Plus, and the AI workshop, and I’m currently rocking the Python workshop. Let me take you through my journey, break down what each workshop taught me, and hopefully inspire you to start your own coding adventure!
 
