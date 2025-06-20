@@ -5,6 +5,4 @@ categories: [Hello World]
 tags: [Hello World]
 ---
 
-#Hello World
-
 Hello World this is my first blog post!!! ❤️
