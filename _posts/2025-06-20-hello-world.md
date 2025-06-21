@@ -86,4 +86,4 @@ I’m loving the Python workshop and can’t wait to finish the SheCodes Bootcam
 
 If you’re ready to start your coding journey, just start! Turn your curiosity into skills—and maybe even a career in tech. 
 
-Happy coding, Stephie Oj. 💕
+Happy coding! Stephie Oj. 💕
