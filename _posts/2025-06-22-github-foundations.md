@@ -6,7 +6,7 @@ categories: [Git, GitHub]
 tags: [Git, GitHub, Version Control, Datacamp]
 ---
 
-# Branching Out with GitHub Adventures in Version Control! 🚀🐙
+# Branching Out with GitHub- Adventures in Version Control! 🚀🐙
 
 Hey there, coding friends! I’m back with another blog post. Slightly sidetracked from the SheCodes Bootcamp I'm also working towards my GitHubs Foundation certification. Last weekend I started exploring version control with DataCamp’s GitHub Foundations course. Today, I wrapped up the **Intermediate Git** course and kicked off the **Introduction to GitHub Concepts** course. As someone who’s already got a taste of Git from the **Introduction to Git** course and some hands-on GitHub experience from SheCodes, I’m thrilled to share my latest discoveries about branches, remote repos, collaboration, and more. Let’s dive into what I learned, sprinkle in some encouragement, and inspire you to take on Git and GitHub too! 😄
 
