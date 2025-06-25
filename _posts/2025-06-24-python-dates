@@ -66,7 +66,7 @@ Breakpoints are a coder’s best friend! They helped me fix a bug in my weather 
 
 These topics—dates, libraries, APIs, and debugging—are game-changers for building practical, real-world apps. Whether it’s displaying a formatted date, adding colorful outputs with `rich`, fetching live weather data, or squashing bugs, I’m starting to see how Python can solve everyday problems. 
 
-## Tips for Aspiring Coders
+## Tips for Aspiring Coders 🧐
 
 If you’re excited to dive into Python or coding in general, here’s my advice:
 - **Play with Dates**: Try `datetime.datetime.now()` and format it your way. Make a vacation countdown! ☀️🏝️
