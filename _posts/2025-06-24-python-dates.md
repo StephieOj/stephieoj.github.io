@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Taming Time and APIs in Python: Mastering Dates and Time! 🐍⏰"
+title: "Taming Time and APIs in Python: Mastering Dates and Time! "
 date: 2025-06-24
 categories: [Python, APIs]
 tags: [Python, Datetime, APIs, SheCodes, Debugging]
 ---
 
-# Taming Time and APIs in Python: Mastering Dates and Time! 🐍🌐
+# Taming Time and APIs in Python: Mastering Dates and Time! 🐍⏰
 
 Hello, fellow coding enthusiasts! I’m back with another blog post, fresh from my coding journey in the [SheCodes Python workshop](https://www.shecodes.io/workshops#features)! Today, I’ve been diving into some seriously useful Python topics: **working with dates**, **using external libraries**, **connecting to APIs**, and **debugging with breakpoints**. From displaying formatted dates to fetching data from the web, these skills are making my projects feel like real-world apps. Whether you’re a newbie coder or just curious about Python, let’s dive into what I learned, sprinkle in some encouragement, and get you inspired to code too! 🚀
 
