@@ -6,7 +6,7 @@ categories: [Hello World]
 tags: [Hello World]
 ---
 
-# My Coding Journey: From Zero to Hero with SheCodes
+# My Coding Journey: From Zero to Hero with SheCodes 📍
 
 Hey there, tech enthusiasts! I’m thrilled to share my first-ever blog post as a new coder diving headfirst into the exciting world of programming. I apologise in advance, this is going to be a long one- I wanted to cover everything I've learned so far! 😬
 
