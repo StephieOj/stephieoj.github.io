@@ -24,7 +24,7 @@ My capstone project is a console app that crafts personalized AI generated trave
 - Displays the plan in styled Markdown using the `rich` library
 - Wraps up with a heartfelt credit sign-off
 
-Blending **weather data**, **AI responses**, **JSON parsing**, and **Markdown styling** was such a cool way to tie all my skills together! Check it out --> [Here](https://colab.research.google.com/drive/1KPh61zeTJ3FxGgvrD14iqVifioJMb77U?usp=sharing)😄
+Blending **weather data**, **AI responses**, **JSON parsing**, and **Markdown styling** was such a cool way to tie all my skills together! Check it out --> [Here](https://colab.research.google.com/drive/1KPh61zeTJ3FxGgvrD14iqVifioJMb77U?usp=sharing) 😄
 
 ## What I Learned: Key Techniques & Takeaways
 
