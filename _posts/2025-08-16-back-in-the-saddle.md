@@ -29,7 +29,7 @@ When I first heard about **Object-Oriented Programming (OOP)**, it sounded a lit
 It’s an incredibly logical and efficient way to build larger applications. I built a simple `Library` class to manage books, and seeing it work felt powerful. It’s truly a game-changer for code organization! 🌟
 
 Plus I had a little laugh at this meme in the process....
-![Python Object Oriented Programming ](/assets/img/poop_meme.png)
+![Python Object Oriented Programming ](/assets/img/poop-meme.png)
 
 ### Taming Data: Files, CSVs, and Visualizations
 
