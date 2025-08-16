@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Back in the Saddle: Certified Salesforce BA and Diving into Advanced Python! 🚀🐍"
+title: "Back in the Saddle: Certified Salesforce BA and Diving into Advanced Python! "
 date: 2025-08-16
 categories: [Python, Business Analysis]
 tags: [Python, OOP, Data Handling, SheCodes, Salesforce, Advanced Python, Data Visualisation]
 ---
-
-# Back in the Saddle: Certified Salesforce BA and Diving into Advanced Python! 🚀🐍
 
 Hello, fellow coding enthusiasts! 👋 I’m so thrilled to be back with a fresh blog post after a bit of a hiatus. If you’ve been wondering where I’ve been, let me fill you in: I had to hit pause on my [SheCodes Bootcamp](https://www.shecodes.io/workshops#features) for a few weeks to focus on studying for the Salesforce Business Analyst exam. It was intense, but guess what? I passed and am now officially a **certified Salesforce Business Analyst**! 🎉📜 What a rush—every late-night study session felt like a step toward a big win, and crossing that finish line has me feeling unstoppable. Now, with that under my belt, I’m jumping right back into coding with the **SheCodes Advanced Python workshop**. We’re all in this together, and I can’t wait to share what I’ve been learning. Let’s dive in and get you pumped to level up too! 😄
 
