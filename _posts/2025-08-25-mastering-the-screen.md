@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Conquering the Screen: My 'Rock Star' Responsive Portfolio Build! 📱💻"
-date: 2025-10-15
+date: 2025-08-25
 categories: [Front-End, Responsive Design]
 tags: [SheCodesResponsive, Portfolio, CSSGrid, Flexbox, MediaQueries, Bootstrap, NewCoder]
 ---
